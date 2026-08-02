@@ -10,13 +10,13 @@
 </p>
 
 ---
+I'm Karam, a developer who builds apps and websites powered by AI. I turn ideas into working products fast — combining AI tools, automation, and modern web development to ship things that actually work. I'm always exploring the newest AI tools and finding practical ways to put them to use.
+### 👨‍💻 About Me
 
-### I'm Karam, a developer who builds apps and websites powered by AI. I turn ideas into working products fast — combining AI tools, automation, and modern web development to ship things that actually work. I'm always exploring the newest AI tools and finding practical ways to put them to use.
-
-👨‍💻 About Me
-I design and build apps & websites powered by AI
-I use AI tools to move fast from idea → working product
-I care about clean, functional, and modern products
+- I design and build **apps & websites powered by AI**
+- I use AI tools to move fast from idea → working product
+- I care about clean, functional, and modern products
+- Based in Algeria
 
 ---
 
