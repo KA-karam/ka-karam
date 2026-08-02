@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Karam</h1>
-<h3 align="center">🤖 AI-Powered App & Web Developer</h3>
+<h3 align="center"> AI-Powered App & Web Developer</h3>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/eba80995-c43b-4282-9058-cda308b42e67" width="400" alt="Pixel Art Coder Animation" style="image-rendering: pixelated;">
