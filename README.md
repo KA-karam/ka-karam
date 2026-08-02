@@ -37,8 +37,6 @@
 ### 🔗 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/YOUR-GITHUB-USERNAME">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/>
   </a>
   <a href="https://your-portfolio-link.com">
     <img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="Portfolio"/>
